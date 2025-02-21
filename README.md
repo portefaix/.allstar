@@ -1,5 +1,5 @@
-# Example .allstar Quickstart Repository
+# Portefaix / Allstar Security Policy Enforcement
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
-default settings.
+This repository outlines the security policy enforcement for the Portefaix organization, using the Allstar GitHub App.
+Allstar helps enforce security best practices by automatically checking and ensuring our repositories comply with
+our established policies.

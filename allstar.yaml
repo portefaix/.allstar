@@ -1,2 +1,6 @@
+---
+# https://github.com/ossf/allstar#policies
 optConfig:
-  optOutStrategy: true
+  optOutStrategy: false
+  optOutPrivateRepos: false
+  optOutPublicRepos: false
